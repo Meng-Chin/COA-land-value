@@ -1,0 +1,5837 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.267716,23.493237 ]
+    },
+    "properties": {
+    "town":"六腳鄉",
+    "address":"溪墘厝段正義小段331~360地號",
+    "land_area":3350,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010724,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2546000,
+    "unit_price":760,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":175206,
+    "co_y":2599093
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.271079,23.517155 ]
+    },
+    "properties": {
+    "town":"六腳鄉",
+    "address":"潭子墘段潭墘小段31~60地號",
+    "land_area":1872,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010724,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1206800,
+    "unit_price":645,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":175563,
+    "co_y":2601740
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.221283,23.45451 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"崁後段北崁小段181~210地號",
+    "land_area":4238,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010720,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4380000,
+    "unit_price":1034,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":170440,
+    "co_y":2594829
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.254472,23.410779 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"牛挑灣段松梅小段1501~1530地號",
+    "land_area":88.41,
+    "type":null,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010723,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":400000,
+    "unit_price":4525,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":173806,
+    "co_y":2589968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.345008,23.568953 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"永祿段961~990地號",
+    "land_area":521.33,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010621,
+    "trans_num":"土地4建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2535918,
+    "unit_price":4864,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":183139,
+    "co_y":2607440
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.341691,23.461801 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"後潭段後潭小段361~390地號",
+    "land_area":2574,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010710,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4066900,
+    "unit_price":1580,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":182746,
+    "co_y":2595575
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.394245,23.435809 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"粗溪段粗溪小段181~210地號",
+    "land_area":509.6,
+    "type":5,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010724,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4722463,
+    "unit_price":9267,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":188103,
+    "co_y":2592673
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.298322,23.39294 ]
+    },
+    "properties": {
+    "town":"鹿草鄉",
+    "address":"頂潭段頂潭小段31~60地號",
+    "land_area":4699,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010731,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":5544820,
+    "unit_price":1180,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":178278,
+    "co_y":2587970
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.524841,23.447467 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"樹頭埔段181~210地號",
+    "land_area":2899,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010725,
+    "trans_num":"土地4建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2988000,
+    "unit_price":1031,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":201452,
+    "co_y":2593914
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.344254,23.568922 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"永祿段961~990地號",
+    "land_area":8.69,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010724,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":41689,
+    "unit_price":4800,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":183062,
+    "co_y":2607437
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.471471,23.616606 ]
+    },
+    "properties": {
+    "town":"大林鎮",
+    "address":"湖子段241~270地號",
+    "land_area":2000,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010725,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2600000,
+    "unit_price":1300,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":196068,
+    "co_y":2612664
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.244833,23.414579 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"南勢竹段南竹小段241~270地號",
+    "land_area":3288,
+    "type":5,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010725,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3945600,
+    "unit_price":1200,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":172823,
+    "co_y":2590394
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.567854,23.40888 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"石段61~90地號",
+    "land_area":10104,
+    "type":5,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010705,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2600000,
+    "unit_price":257,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":205834,
+    "co_y":2589627
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.378441,23.443946 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"大堀尾段大堀小段91~120地號",
+    "land_area":538.67,
+    "type":5,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010727,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":500960,
+    "unit_price":930,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":186492,
+    "co_y":2593581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.556198,23.485982 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"內埔段601~630地號",
+    "land_area":658.35,
+    "type":null,
+    "noncity_type":2,
+    "noncity":4,
+    "trans_date":1010723,
+    "trans_num":"土地4建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2500000,
+    "unit_price":3797,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":204669,
+    "co_y":2598169
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.569321,23.493695 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"樟樹坪段451~480地號",
+    "land_area":286,
+    "type":4,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010727,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":150000,
+    "unit_price":524,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":206012,
+    "co_y":2599019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.249431,23.461402 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"鎮安段301~330地號",
+    "land_area":32.75,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010731,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":580000,
+    "unit_price":17710,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":173320,
+    "co_y":2595577
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.389343,23.514268 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"牛斗山段601~630地號",
+    "land_area":2446,
+    "type":null,
+    "noncity_type":2,
+    "noncity":12,
+    "trans_date":1010721,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":750000,
+    "unit_price":307,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187639,
+    "co_y":2601364
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.347781,23.525224 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"月眉潭段月潭小段271~300地號",
+    "land_area":2510,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010726,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3050000,
+    "unit_price":1215,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":183400,
+    "co_y":2602596
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.331118,23.456455 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"祥和段901~930地號",
+    "land_area":1121.79,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010703,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":20300000,
+    "unit_price":18096,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":181663,
+    "co_y":2594988
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.579118,23.543955 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"大草埔段61~90地號",
+    "land_area":266.5,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010727,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":77285,
+    "unit_price":290,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":207029,
+    "co_y":2604582
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.73635,23.449991 ]
+    },
+    "properties": {
+    "town":"阿里山鄉",
+    "address":"達邦段421~450地號",
+    "land_area":18000,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2160000,
+    "unit_price":120,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":223063,
+    "co_y":2594138
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.610251,23.548587 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"緞厝寮段151~180地號",
+    "land_area":450,
+    "type":null,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010606,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":200000,
+    "unit_price":444,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":210209,
+    "co_y":2605086
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.687781,23.555291 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"生毛樹段751~780地號",
+    "land_area":2000,
+    "type":null,
+    "noncity_type":7,
+    "noncity":6,
+    "trans_date":1010731,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":160000,
+    "unit_price":80,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":218126,
+    "co_y":2605809
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.519066,23.415113 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"頂埔段271~300地號",
+    "land_area":1096,
+    "type":5,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010725,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1500000,
+    "unit_price":1369,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":200850,
+    "co_y":2590333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.397983,23.42925 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"水南段301~330地號",
+    "land_area":11.34,
+    "type":3,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010701,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":137200,
+    "unit_price":12099,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":188482,
+    "co_y":2591945
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.404998,23.612726 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"游厝段游東小段241~270地號",
+    "land_area":4416,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010722,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":5961600,
+    "unit_price":1350,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":189283,
+    "co_y":2612261
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.436792,23.41584 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"義興段151~180地號",
+    "land_area":59,
+    "type":5,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010712,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":267000,
+    "unit_price":4525,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":192442,
+    "co_y":2590444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.570583,23.38196 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"中崙段301~330地號",
+    "land_area":390,
+    "type":1,
+    "noncity_type":6,
+    "noncity":3,
+    "trans_date":1010615,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":300000,
+    "unit_price":769,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":206104,
+    "co_y":2586645
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.503301,23.446895 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"田寮段271~300地號",
+    "land_area":1002,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010726,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2424000,
+    "unit_price":2419,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":199251,
+    "co_y":2593858
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.387196,23.578236 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"崙尾段美南小段421~450地號",
+    "land_area":2150,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010729,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2308000,
+    "unit_price":1073,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187450,
+    "co_y":2608449
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.33193,23.537979 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"大客段頂客小段1~30地號",
+    "land_area":2920,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010718,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3796000,
+    "unit_price":1300,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":181788,
+    "co_y":2604016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.489235,23.44731 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"護生段721~750地號",
+    "land_area":986.14,
+    "type":5,
+    "noncity_type":1,
+    "noncity":1,
+    "trans_date":1010731,
+    "trans_num":"土地6建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":7500000,
+    "unit_price":7605,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":197814,
+    "co_y":2593909
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.688048,23.553955 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"生毛樹段751~780地號",
+    "land_area":1000,
+    "type":null,
+    "noncity_type":7,
+    "noncity":6,
+    "trans_date":1010727,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":85000,
+    "unit_price":85,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":218153,
+    "co_y":2605661
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.403935,23.420125 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"溪洲段91~120地號",
+    "land_area":86.12,
+    "type":4,
+    "noncity_type":2,
+    "noncity":11,
+    "trans_date":1010724,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":120568,
+    "unit_price":1400,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":189086,
+    "co_y":2590932
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.267916,23.501302 ]
+    },
+    "properties": {
+    "town":"六腳鄉",
+    "address":"潭子墘段潭墘小段721~750地號",
+    "land_area":5632,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010730,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4505600,
+    "unit_price":800,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":175231,
+    "co_y":2599986
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.215371,23.361673 ]
+    },
+    "properties": {
+    "town":"義竹鄉",
+    "address":"後鎮段後鎮小段1~30地號",
+    "land_area":4370,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2971600,
+    "unit_price":680,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":169780,
+    "co_y":2584551
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.527273,23.476208 ]
+    },
+    "properties": {
+    "town":"番路鄉",
+    "address":"內甕段31~60地號",
+    "land_area":41.05,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010726,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":60000,
+    "unit_price":1462,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":201711,
+    "co_y":2597096
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.515954,23.442221 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"樹頭埔段301~330地號",
+    "land_area":22,
+    "type":5,
+    "noncity_type":1,
+    "noncity":12,
+    "trans_date":1010716,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":60000,
+    "unit_price":2727,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":200542,
+    "co_y":2593336
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.535187,23.433041 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"枋樹段121~150地號",
+    "land_area":3665,
+    "type":5,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010726,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":5950000,
+    "unit_price":1623,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":202504,
+    "co_y":2592313
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.53574,23.381247 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"竹頭崎段271~300地號",
+    "land_area":987,
+    "type":4,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010728,
+    "trans_num":"土地4建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":650000,
+    "unit_price":659,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":202542,
+    "co_y":2586577
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.389241,23.502312 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"東新段511~540地號",
+    "land_area":88.19,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010718,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":135000,
+    "unit_price":1531,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187623,
+    "co_y":2600040
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.427589,23.568863 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"頂寮段中廣小段331~360地號",
+    "land_area":173.6,
+    "type":null,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010726,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":900000,
+    "unit_price":5184,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":191569,
+    "co_y":2607394
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.459883,23.603373 ]
+    },
+    "properties": {
+    "town":"大林鎮",
+    "address":"新興段331~360地號",
+    "land_area":145.79,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010731,
+    "trans_num":"土地5建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1000000,
+    "unit_price":6859,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":194880,
+    "co_y":2611203
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.378244,23.53409 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"中洋子段631~660地號",
+    "land_area":1152,
+    "type":1,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010730,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":921600,
+    "unit_price":800,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":186515,
+    "co_y":2603564
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.642054,23.443699 ]
+    },
+    "properties": {
+    "town":"番路鄉",
+    "address":"公田段1~30地號",
+    "land_area":514,
+    "type":5,
+    "noncity_type":5,
+    "noncity":3,
+    "trans_date":1010725,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":395000,
+    "unit_price":768,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":213427,
+    "co_y":2593462
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.305678,23.454845 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"頂港子墘段頂港小段121~150地號",
+    "land_area":1187,
+    "type":5,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010727,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4150000,
+    "unit_price":3496,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":179063,
+    "co_y":2594822
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.529053,23.449187 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"樹頭埔段1~30地號",
+    "land_area":801,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2907600,
+    "unit_price":3630,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":201883,
+    "co_y":2594103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.239891,23.467776 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"德安段1981~2010地號",
+    "land_area":176.02,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010718,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3753843,
+    "unit_price":21326,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":172349,
+    "co_y":2596288
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.706164,23.472494 ]
+    },
+    "properties": {
+    "town":"阿里山鄉",
+    "address":"樂野段61~90地號",
+    "land_area":4384.5,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010714,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1300000,
+    "unit_price":296,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":219984,
+    "co_y":2596636
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.507978,23.457736 ]
+    },
+    "properties": {
+    "town":"番路鄉",
+    "address":"內甕段541~570地號",
+    "land_area":459,
+    "type":5,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010724,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1380000,
+    "unit_price":3007,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":199733,
+    "co_y":2595057
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.339429,23.49158 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"新埤段新埤小段361~390地號",
+    "land_area":1881,
+    "type":5,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3300000,
+    "unit_price":1754,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":182530,
+    "co_y":2598874
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.390808,23.551188 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"雙援段451~480地號",
+    "land_area":4260,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010806,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4941600,
+    "unit_price":1160,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187806,
+    "co_y":2605452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.223353,23.363113 ]
+    },
+    "properties": {
+    "town":"義竹鄉",
+    "address":"龍蛟潭段龍蛟小段451~480地號",
+    "land_area":4137,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010726,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2482200,
+    "unit_price":600,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":170597,
+    "co_y":2584706
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.267306,23.519521 ]
+    },
+    "properties": {
+    "town":"六腳鄉",
+    "address":"竹子腳段竹嘉小段2131~2160地號",
+    "land_area":1938,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010806,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1031000,
+    "unit_price":532,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":175179,
+    "co_y":2602004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.356895,23.443109 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"新大崙段661~690地號",
+    "land_area":107.51,
+    "type":null,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010724,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":530000,
+    "unit_price":4930,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":184290,
+    "co_y":2593498
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.566926,23.501526 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"瓦厝埔段1021~1050地號",
+    "land_area":1115,
+    "type":4,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010717,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":900000,
+    "unit_price":807,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":205770,
+    "co_y":2599887
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.507233,23.489754 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"灣中段751~780地號",
+    "land_area":187.07,
+    "type":null,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010725,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1700000,
+    "unit_price":9088,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":199669,
+    "co_y":2598603
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.352777,23.552885 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"新港段宮前小段61~90地號",
+    "land_area":1291,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":7810550,
+    "unit_price":6050,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":183924,
+    "co_y":2605657
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.378913,23.512529 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"中工段301~330地號",
+    "land_area":61.96,
+    "type":null,
+    "noncity_type":2,
+    "noncity":12,
+    "trans_date":1010720,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":53000,
+    "unit_price":855,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":186573,
+    "co_y":2601176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.551355,23.394982 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"竹頭崎段1~30地號",
+    "land_area":1005.07,
+    "type":4,
+    "noncity_type":6,
+    "noncity":6,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":80000,
+    "unit_price":80,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":204143,
+    "co_y":2588093
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.536356,23.384039 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"竹頭崎段271~300地號",
+    "land_area":10663,
+    "type":5,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010729,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":800000,
+    "unit_price":75,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":202606,
+    "co_y":2586886
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.722086,23.404969 ]
+    },
+    "properties": {
+    "town":"阿里山鄉",
+    "address":"里佳段91~120地號",
+    "land_area":190,
+    "type":5,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":140000,
+    "unit_price":737,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":221596,
+    "co_y":2589155
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.304842,23.498636 ]
+    },
+    "properties": {
+    "town":"六腳鄉",
+    "address":"灣南段451~480地號",
+    "land_area":885.84,
+    "type":4,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010719,
+    "trans_num":"土地5建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":600000,
+    "unit_price":677,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":179001,
+    "co_y":2599672
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.348865,23.537672 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"菜公厝段301~330地號",
+    "land_area":95,
+    "type":1,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010807,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":475000,
+    "unit_price":5000,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":183517,
+    "co_y":2603974
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.550507,23.518429 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"真武段901~930地號",
+    "land_area":11.11,
+    "type":5,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":50000,
+    "unit_price":4500,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":204099,
+    "co_y":2601764
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.248312,23.532758 ]
+    },
+    "properties": {
+    "town":"六腳鄉",
+    "address":"竹子腳段竹嘉小段151~180地號",
+    "land_area":1028,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010806,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":462600,
+    "unit_price":450,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":173247,
+    "co_y":2603480
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.253088,23.491642 ]
+    },
+    "properties": {
+    "town":"六腳鄉",
+    "address":"六腳段六南小段451~480地號",
+    "land_area":2963,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010813,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3437080,
+    "unit_price":1160,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":173711,
+    "co_y":2598924
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2114,23.457413 ]
+    },
+    "properties": {
+    "town":"東石鄉",
+    "address":"港墘段港墘小段361~390地號",
+    "land_area":1789,
+    "type":null,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010727,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2146800,
+    "unit_price":1200,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":169432,
+    "co_y":2595156
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.218081,23.359754 ]
+    },
+    "properties": {
+    "town":"義竹鄉",
+    "address":"龍蛟潭段龍蛟小段271~300地號",
+    "land_area":2363.33,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010727,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2586000,
+    "unit_price":1094,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":170056,
+    "co_y":2584337
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.447932,23.525151 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"民工段391~420地號",
+    "land_area":167,
+    "type":5,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010814,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3030000,
+    "unit_price":18144,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":193627,
+    "co_y":2602545
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.441678,23.573086 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"崙子頂段1171~1200地號",
+    "land_area":1436,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1220600,
+    "unit_price":850,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":193009,
+    "co_y":2607856
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.444207,23.57277 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"崙子頂段1171~1200地號",
+    "land_area":1436,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1220600,
+    "unit_price":850,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":193267,
+    "co_y":2607820
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.383115,23.535229 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"竹子段竹子小段391~420地號",
+    "land_area":2755,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1873400,
+    "unit_price":680,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187013,
+    "co_y":2603688
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.382401,23.535154 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"竹子段竹子小段391~420地號",
+    "land_area":3296,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2241280,
+    "unit_price":680,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":186940,
+    "co_y":2603680
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.386974,23.590127 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"崙尾段美東小段181~210地號",
+    "land_area":2544,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010807,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2000000,
+    "unit_price":786,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187433,
+    "co_y":2609766
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.434168,23.533373 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"民文段1081~1110地號",
+    "land_area":15.74,
+    "type":5,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010801,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":134419,
+    "unit_price":8540,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":192225,
+    "co_y":2603461
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.395306,23.591415 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"崙尾段美北小段121~150地號",
+    "land_area":3600,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010802,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3250000,
+    "unit_price":903,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":188284,
+    "co_y":2609905
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.376481,23.604596 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"溪口段溪明小段151~180地號",
+    "land_area":1995,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010803,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1695750,
+    "unit_price":850,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":186369,
+    "co_y":2611373
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.450289,23.561279 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"豐收段1291~1320地號",
+    "land_area":62.28,
+    "type":4,
+    "noncity_type":4,
+    "noncity":5,
+    "trans_date":1010806,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":562388,
+    "unit_price":9030,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":193883,
+    "co_y":2606545
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.261808,23.465886 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"大德興段1081~1110地號",
+    "land_area":1259.97,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010803,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":11500000,
+    "unit_price":9127,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":174587,
+    "co_y":2596067
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.335429,23.453467 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"太保段太保小段631~660地號",
+    "land_area":109,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010725,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2250000,
+    "unit_price":20642,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":182102,
+    "co_y":2594655
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.36778,23.436408 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"大崙段重劃小段871~900地號",
+    "land_area":1842,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010803,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1749900,
+    "unit_price":950,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":185399,
+    "co_y":2592751
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.552732,23.392936 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"竹頭崎段1~30地號",
+    "land_area":1000,
+    "type":5,
+    "noncity_type":6,
+    "noncity":6,
+    "trans_date":1010806,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":150000,
+    "unit_price":150,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":204283,
+    "co_y":2587866
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.569745,23.417266 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"灣潭子段361~390地號",
+    "land_area":3629,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010806,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":272000,
+    "unit_price":75,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":206030,
+    "co_y":2590555
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.329155,23.434152 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"梅子厝段梅厝小段391~420地號",
+    "land_area":3029,
+    "type":5,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010714,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3029000,
+    "unit_price":1000,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":181451,
+    "co_y":2592519
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.711113,23.546243 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"科子林段451~480地號",
+    "land_area":2000,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":170000,
+    "unit_price":85,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":220506,
+    "co_y":2604802
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.282877,23.390649 ]
+    },
+    "properties": {
+    "town":"鹿草鄉",
+    "address":"竹子段松竹小段781~810地號",
+    "land_area":2649,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010701,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1720000,
+    "unit_price":649,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":176698,
+    "co_y":2587724
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.556072,23.3889 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"竹頭崎段1~30地號",
+    "land_area":2000,
+    "type":null,
+    "noncity_type":6,
+    "noncity":6,
+    "trans_date":1010807,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":170000,
+    "unit_price":85,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":204623,
+    "co_y":2587418
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.506292,23.490031 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"灣中段751~780地號",
+    "land_area":34.66,
+    "type":null,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010808,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":200000,
+    "unit_price":5770,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":199573,
+    "co_y":2598634
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.470692,23.507929 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"林子尾段211~240地號",
+    "land_area":5640.75,
+    "type":4,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010807,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":5460240,
+    "unit_price":968,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":195944,
+    "co_y":2600629
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.361806,23.545184 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"後底湖段後底湖小段391~420地號",
+    "land_area":3272,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010726,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4024560,
+    "unit_price":1230,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":184842,
+    "co_y":2604800
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.406975,23.517181 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"山中段871~900地號",
+    "land_area":2150,
+    "type":null,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010722,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3500000,
+    "unit_price":1628,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":189441,
+    "co_y":2601679
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.373486,23.496308 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"南新段661~690地號",
+    "land_area":179.62,
+    "type":2,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010720,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1133402,
+    "unit_price":6310,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":186011,
+    "co_y":2599382
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.335132,23.463913 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"太保段太保小段451~480地號",
+    "land_area":2384,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010627,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3700000,
+    "unit_price":1552,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":182077,
+    "co_y":2595812
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.470421,23.45792 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"忠義段121~150地號",
+    "land_area":7.07,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010801,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":62216,
+    "unit_price":8800,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":195896,
+    "co_y":2595091
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.573704,23.436781 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"社口段31~60地號",
+    "land_area":489.88,
+    "type":4,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010806,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":350000,
+    "unit_price":714,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":206441,
+    "co_y":2592715
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.349479,23.49639 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"過溝段過溝小段811~840地號",
+    "land_area":2000,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010807,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2330000,
+    "unit_price":1165,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":183559,
+    "co_y":2599402
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.375199,23.568968 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"海豐子段海豐小段151~180地號",
+    "land_area":2599,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010809,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1403460,
+    "unit_price":540,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":186221,
+    "co_y":2607428
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.241103,23.334259 ]
+    },
+    "properties": {
+    "town":"義竹鄉",
+    "address":"六桂段1231~1260地號",
+    "land_area":210.09,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010731,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"全",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1069800,
+    "unit_price":5092,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":172395,
+    "co_y":2581501
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.451165,23.527366 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"民工段301~330地號",
+    "land_area":381,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010803,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":8990000,
+    "unit_price":23596,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":193958,
+    "co_y":2602789
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.451213,23.527574 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"民工段301~330地號",
+    "land_area":298,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010803,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":5949570,
+    "unit_price":19965,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":193963,
+    "co_y":2602812
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.387402,23.578236 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"崙尾段美南小段421~450地號",
+    "land_area":748,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010804,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":800000,
+    "unit_price":1070,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187471,
+    "co_y":2608449
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.60854,23.484425 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"內埔子段1~30地號",
+    "land_area":1000,
+    "type":null,
+    "noncity_type":6,
+    "noncity":6,
+    "trans_date":1010730,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":150000,
+    "unit_price":150,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":210015,
+    "co_y":2597981
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.610943,23.52633 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"金獅寮段31~60地號",
+    "land_area":924.67,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010810,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":245000,
+    "unit_price":265,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":210273,
+    "co_y":2602621
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.467347,23.443435 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"和睦段511~540地號",
+    "land_area":788.78,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010810,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2350000,
+    "unit_price":2979,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":195576,
+    "co_y":2593488
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.460623,23.41476 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"牛稠埔段121~150地號",
+    "land_area":533,
+    "type":4,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010813,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":239850,
+    "unit_price":450,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":194877,
+    "co_y":2590315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.187745,23.433074 ]
+    },
+    "properties": {
+    "town":"東石鄉",
+    "address":"栗子崙段151~180地號",
+    "land_area":99.18,
+    "type":1,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010810,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":250000,
+    "unit_price":2521,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":167000,
+    "co_y":2592474
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.210312,23.459295 ]
+    },
+    "properties": {
+    "town":"東石鄉",
+    "address":"港墘段港墘小段211~240地號",
+    "land_area":150.33,
+    "type":null,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010820,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":450984,
+    "unit_price":3000,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":169322,
+    "co_y":2595365
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.353988,23.563654 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"永福段391~420地號",
+    "land_area":77.5,
+    "type":5,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010818,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":500000,
+    "unit_price":6452,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":184053,
+    "co_y":2606849
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.461133,23.518082 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"大丘園段181~210地號",
+    "land_area":1761,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010626,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2515000,
+    "unit_price":1428,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":194972,
+    "co_y":2601757
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.52661,23.467339 ]
+    },
+    "properties": {
+    "town":"番路鄉",
+    "address":"內甕段121~150地號",
+    "land_area":6212,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010801,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":7000000,
+    "unit_price":1127,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":201640,
+    "co_y":2596114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.375959,23.563807 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"西庄段西庄小段691~720地號",
+    "land_area":5738,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010816,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":5738000,
+    "unit_price":1000,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":186296,
+    "co_y":2606856
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.485754,23.610486 ]
+    },
+    "properties": {
+    "town":"大林鎮",
+    "address":"內林段內林小段391~420地號",
+    "land_area":1973,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010808,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2170300,
+    "unit_price":1100,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":197523,
+    "co_y":2611981
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.385543,23.590239 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"崙尾段崙尾小段91~120地號",
+    "land_area":2800,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010731,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2800000,
+    "unit_price":1000,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187287,
+    "co_y":2609779
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.385131,23.590282 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"崙尾段崙尾小段91~120地號",
+    "land_area":1528,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010731,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1528000,
+    "unit_price":1000,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187245,
+    "co_y":2609784
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.384935,23.590408 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"崙尾段崙尾小段91~120地號",
+    "land_area":2500,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010731,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2500000,
+    "unit_price":1000,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187225,
+    "co_y":2609798
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.272511,23.38456 ]
+    },
+    "properties": {
+    "town":"鹿草鄉",
+    "address":"下潭段下潭小段481~510地號",
+    "land_area":2434,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010719,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1500000,
+    "unit_price":616,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":175635,
+    "co_y":2587055
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.560279,23.58647 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"梅北段181~210地號",
+    "land_area":267,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010801,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4280280,
+    "unit_price":16031,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":205120,
+    "co_y":2609296
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.165602,23.376577 ]
+    },
+    "properties": {
+    "town":"布袋鎮",
+    "address":"復興段1021~1050地號",
+    "land_area":117.24,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010723,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1773500,
+    "unit_price":15127,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":164701,
+    "co_y":2586230
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.16569,23.376541 ]
+    },
+    "properties": {
+    "town":"布袋鎮",
+    "address":"復興段1021~1050地號",
+    "land_area":107.32,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010723,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1623000,
+    "unit_price":15123,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":164710,
+    "co_y":2586226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.165769,23.376532 ]
+    },
+    "properties": {
+    "town":"布袋鎮",
+    "address":"復興段1021~1050地號",
+    "land_area":199.31,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010723,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2803500,
+    "unit_price":14066,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":164718,
+    "co_y":2586225
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.555745,23.428108 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"灣潭子段181~210地號",
+    "land_area":580,
+    "type":5,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010821,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1200000,
+    "unit_price":2069,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":204603,
+    "co_y":2591760
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.355874,23.498115 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"過溝段過溝小段751~780地號",
+    "land_area":3918,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010727,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":10000000,
+    "unit_price":2552,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":184213,
+    "co_y":2599590
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.575044,23.243485 ]
+    },
+    "properties": {
+    "town":"大埔鄉",
+    "address":"大埔段1441~1470地號",
+    "land_area":2500,
+    "type":null,
+    "noncity_type":6,
+    "noncity":null,
+    "trans_date":1010705,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1000000,
+    "unit_price":400,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":206515,
+    "co_y":2571309
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.423671,23.456328 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"北回段451~480地號",
+    "land_area":402.62,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010804,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2260000,
+    "unit_price":5613,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":191119,
+    "co_y":2594933
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.518141,23.427382 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"埔美段541~570地號",
+    "land_area":4503.88,
+    "type":null,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010806,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":6380000,
+    "unit_price":1417,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":200760,
+    "co_y":2591692
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.446583,23.548046 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"東湖段811~840地號",
+    "land_area":2970.2,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010807,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":7187884,
+    "unit_price":2420,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":193499,
+    "co_y":2605081
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.217983,23.371484 ]
+    },
+    "properties": {
+    "town":"義竹鄉",
+    "address":"龍蛟潭段龍蛟小段721~750地號",
+    "land_area":2038,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010815,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1080140,
+    "unit_price":530,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":170053,
+    "co_y":2585636
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.269318,23.454842 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"大榔段大葛小段901~930地號",
+    "land_area":2236,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010813,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4472000,
+    "unit_price":2000,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":175348,
+    "co_y":2594840
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.240115,23.466215 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"文化段841~870地號",
+    "land_area":23.8,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010806,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":285600,
+    "unit_price":12000,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":172371,
+    "co_y":2596115
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.681837,23.55034 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"生毛樹段1141~1170地號",
+    "land_area":3266,
+    "type":null,
+    "noncity_type":7,
+    "noncity":6,
+    "trans_date":1010527,
+    "trans_num":"土地5建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1100000,
+    "unit_price":337,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":217518,
+    "co_y":2605262
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.642002,23.54265 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"大坪段31~60地號",
+    "land_area":4000,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010811,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":340000,
+    "unit_price":85,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":213449,
+    "co_y":2604420
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.641953,23.542695 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"大坪段31~60地號",
+    "land_area":2000,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010813,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":170000,
+    "unit_price":85,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":213444,
+    "co_y":2604425
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.496573,23.5022 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"五間厝段31~60地號",
+    "land_area":196.06,
+    "type":null,
+    "noncity_type":2,
+    "noncity":1,
+    "trans_date":1010809,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":380000,
+    "unit_price":1938,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":198585,
+    "co_y":2599985
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.544475,23.415839 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"石段211~240地號",
+    "land_area":141,
+    "type":5,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010813,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":100000,
+    "unit_price":709,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":203447,
+    "co_y":2590405
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.595173,23.511318 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"樟樹坪段61~90地號",
+    "land_area":1000,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010810,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":160000,
+    "unit_price":160,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":208658,
+    "co_y":2600963
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.564826,23.464046 ]
+    },
+    "properties": {
+    "town":"番路鄉",
+    "address":"番路段391~420地號",
+    "land_area":855,
+    "type":4,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010809,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1300000,
+    "unit_price":1520,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":205543,
+    "co_y":2595737
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.452479,23.529249 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"民工段151~180地號",
+    "land_area":90,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010731,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1350000,
+    "unit_price":15000,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":194093,
+    "co_y":2602997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.198656,23.366501 ]
+    },
+    "properties": {
+    "town":"義竹鄉",
+    "address":"後鎮段241~270地號",
+    "land_area":4652,
+    "type":4,
+    "noncity_type":11,
+    "noncity":7,
+    "trans_date":1010814,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1560000,
+    "unit_price":335,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":168074,
+    "co_y":2585095
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.440394,23.534028 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"義興段31~60地號",
+    "land_area":241.22,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010815,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1460000,
+    "unit_price":6053,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":192861,
+    "co_y":2603531
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.440609,23.534065 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"福安段601~630地號",
+    "land_area":73.38,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010815,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":440000,
+    "unit_price":5996,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":192883,
+    "co_y":2603535
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.462169,23.433981 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"和溪段451~480地號",
+    "land_area":12790.39,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010803,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":11511351,
+    "unit_price":900,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":195043,
+    "co_y":2592443
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.332664,23.474007 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"新埤段新埤小段2011~2040地號",
+    "land_area":791,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010816,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1800000,
+    "unit_price":2276,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":181830,
+    "co_y":2596931
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.456206,23.408423 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"牛稠埔段91~120地號",
+    "land_area":4072,
+    "type":null,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010816,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2000000,
+    "unit_price":491,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":194423,
+    "co_y":2589615
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.542759,23.456569 ]
+    },
+    "properties": {
+    "town":"番路鄉",
+    "address":"轆子腳段121~150地號",
+    "land_area":814.02,
+    "type":null,
+    "noncity_type":2,
+    "noncity":6,
+    "trans_date":1010803,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1000000,
+    "unit_price":1228,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":203286,
+    "co_y":2594916
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.500602,23.422803 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"龍山段121~150地號",
+    "land_area":1841,
+    "type":5,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010813,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1800000,
+    "unit_price":978,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":198966,
+    "co_y":2591191
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.343976,23.405338 ]
+    },
+    "properties": {
+    "town":"鹿草鄉",
+    "address":"後堀段181~210地號",
+    "land_area":339.68,
+    "type":5,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010815,
+    "trans_num":"土地6建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2000000,
+    "unit_price":5888,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":182951,
+    "co_y":2589321
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.497368,23.594578 ]
+    },
+    "properties": {
+    "town":"大林鎮",
+    "address":"大埔美段721~750地號",
+    "land_area":2535,
+    "type":null,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010815,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2028000,
+    "unit_price":800,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":198702,
+    "co_y":2610215
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.337315,23.442305 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"梅子厝段梅厝小段91~120地號",
+    "land_area":1730,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010803,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2595000,
+    "unit_price":1500,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":182289,
+    "co_y":2593418
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.43653,23.624808 ]
+    },
+    "properties": {
+    "town":"大林鎮",
+    "address":"大湖段511~540地號",
+    "land_area":1291,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010816,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":387300,
+    "unit_price":300,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":192506,
+    "co_y":2613586
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.439298,23.549862 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"東湖段1561~1590地號",
+    "land_area":313.72,
+    "type":null,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010721,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3125900,
+    "unit_price":9964,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":192756,
+    "co_y":2605285
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.551427,23.564845 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"大草埔段781~810地號",
+    "land_area":4059,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010806,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1200000,
+    "unit_price":296,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":204209,
+    "co_y":2606904
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.556021,23.576733 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"梅南段1111~1140地號",
+    "land_area":2500,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010813,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4159375,
+    "unit_price":1664,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":204682,
+    "co_y":2608219
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.508614,23.476485 ]
+    },
+    "properties": {
+    "town":"番路鄉",
+    "address":"內甕段361~390地號",
+    "land_area":427,
+    "type":3,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010731,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":12642000,
+    "unit_price":29607,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":199805,
+    "co_y":2597133
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.492514,23.4934 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"崎腳段901~930地號",
+    "land_area":65.81,
+    "type":null,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010823,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":557314,
+    "unit_price":8469,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":198167,
+    "co_y":2599012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.555842,23.577509 ]
+    },
+    "properties": {
+    "town":"梅山鄉",
+    "address":"梅南段1111~1140地號",
+    "land_area":2500,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010823,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4159375,
+    "unit_price":1664,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":204664,
+    "co_y":2608305
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.514836,23.5336 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"新水坑段391~420地號",
+    "land_area":570.42,
+    "type":null,
+    "noncity_type":6,
+    "noncity":3,
+    "trans_date":1010823,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":124714,
+    "unit_price":219,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":200462,
+    "co_y":2603456
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.242794,23.459952 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"鎮安段1561~1590地號",
+    "land_area":99,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010821,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4492500,
+    "unit_price":45379,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":172641,
+    "co_y":2595420
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.216591,23.435172 ]
+    },
+    "properties": {
+    "town":"布袋鎮",
+    "address":"貴舍段301~330地號",
+    "land_area":3906,
+    "type":null,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010813,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1100000,
+    "unit_price":282,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":169949,
+    "co_y":2592690
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.257499,23.411868 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"牛挑灣段松梅小段1231~1260地號",
+    "land_area":125.5,
+    "type":null,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010720,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":351400,
+    "unit_price":2800,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":174116,
+    "co_y":2590087
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.212115,23.493607 ]
+    },
+    "properties": {
+    "town":"六腳鄉",
+    "address":"後崩山段後崩山小段451~480地號",
+    "land_area":1500,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010817,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":900000,
+    "unit_price":600,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":169527,
+    "co_y":2599164
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.499283,23.554491 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"東興段31~60地號",
+    "land_area":4079.61,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010828,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1035731,
+    "unit_price":254,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":198882,
+    "co_y":2605775
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.348257,23.577553 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"古民段新民小段361~390地號",
+    "land_area":3260,
+    "type":5,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010807,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2200000,
+    "unit_price":675,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":183475,
+    "co_y":2608391
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.393978,23.537041 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"雙援段331~360地號",
+    "land_area":3323,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010810,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4100000,
+    "unit_price":1234,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":188123,
+    "co_y":2603884
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.391942,23.541142 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"雙援段何厝小段331~360地號",
+    "land_area":1247,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010810,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":748000,
+    "unit_price":600,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187917,
+    "co_y":2604339
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.565384,23.401252 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"石段61~90地號",
+    "land_area":4127,
+    "type":null,
+    "noncity_type":6,
+    "noncity":6,
+    "trans_date":1010821,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":400000,
+    "unit_price":97,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":205579,
+    "co_y":2588783
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.372301,23.574934 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"海豐子段海豐小段391~420地號",
+    "land_area":3571,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010821,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2821750,
+    "unit_price":790,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":185928,
+    "co_y":2608090
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.37133,23.575228 ]
+    },
+    "properties": {
+    "town":"新港鄉",
+    "address":"海豐子段海豐小段421~450地號",
+    "land_area":5964,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010821,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":5069400,
+    "unit_price":850,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":185829,
+    "co_y":2608123
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.201205,23.412782 ]
+    },
+    "properties": {
+    "town":"布袋鎮",
+    "address":"過溝新段481~510地號",
+    "land_area":646.62,
+    "type":null,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010817,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":150000,
+    "unit_price":232,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":168363,
+    "co_y":2590219
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.469612,23.554908 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"五穀王段301~330地號",
+    "land_area":255.82,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010820,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3515734,
+    "unit_price":13743,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":195853,
+    "co_y":2605832
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.475403,23.554485 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"五穀王段61~90地號",
+    "land_area":272.25,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010821,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4621988,
+    "unit_price":16977,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":196444,
+    "co_y":2605783
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.391873,23.547463 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"雙援段541~570地號",
+    "land_area":1567,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010726,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1300000,
+    "unit_price":830,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187913,
+    "co_y":2605039
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.391102,23.546972 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"雙援段541~570地號",
+    "land_area":3817,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010726,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3977314,
+    "unit_price":1042,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187834,
+    "co_y":2604985
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.366411,23.440322 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"大崙段重劃小段271~300地號",
+    "land_area":3000,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010816,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3750000,
+    "unit_price":1250,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":185261,
+    "co_y":2593185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.467394,23.507322 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"林子尾段211~240地號",
+    "land_area":2997,
+    "type":5,
+    "noncity_type":2,
+    "noncity":4,
+    "trans_date":1010821,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":20398275,
+    "unit_price":6806,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":195607,
+    "co_y":2600563
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.254529,23.446112 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"下竹圍段佳禾小段1171~1200地號",
+    "land_area":201.14,
+    "type":1,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010820,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":608400,
+    "unit_price":3025,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":173832,
+    "co_y":2593881
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.214471,23.447785 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"崁後段南崁小段1051~1080地號",
+    "land_area":3512,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010722,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2107200,
+    "unit_price":600,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":169740,
+    "co_y":2594088
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.213981,23.447936 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"崁後段南崁小段1051~1080地號",
+    "land_area":3512,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010722,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2107200,
+    "unit_price":600,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":169690,
+    "co_y":2594105
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.470421,23.458002 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"忠義段121~150地號",
+    "land_area":9.02,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010807,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":79376,
+    "unit_price":8800,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":195896,
+    "co_y":2595100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.545132,23.395424 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"竹頭崎段1~30地號",
+    "land_area":146.13,
+    "type":5,
+    "noncity_type":6,
+    "noncity":3,
+    "trans_date":1010706,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":43000,
+    "unit_price":294,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":203507,
+    "co_y":2588144
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.456274,23.418149 ]
+    },
+    "properties": {
+    "town":"水上鄉",
+    "address":"牛稠埔段331~360地號",
+    "land_area":7256.5,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010820,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4170000,
+    "unit_price":575,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":194434,
+    "co_y":2590692
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.540969,23.44217 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"吳鳳廟段1351~1380地號",
+    "land_area":348.25,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010817,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":500000,
+    "unit_price":1436,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":203098,
+    "co_y":2593322
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.540674,23.44244 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"吳鳳廟段1351~1380地號",
+    "land_area":348.25,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010817,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":500000,
+    "unit_price":1436,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":203068,
+    "co_y":2593352
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.540714,23.442404 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"吳鳳廟段1351~1380地號",
+    "land_area":348.25,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010817,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":500000,
+    "unit_price":1436,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":203072,
+    "co_y":2593348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.540831,23.442296 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"吳鳳廟段1351~1380地號",
+    "land_area":348.25,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010817,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":500000,
+    "unit_price":1436,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":203084,
+    "co_y":2593336
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.541028,23.442116 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"吳鳳廟段1351~1380地號",
+    "land_area":348.25,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010817,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":500000,
+    "unit_price":1436,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":203104,
+    "co_y":2593316
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.540714,23.442404 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"吳鳳廟段1351~1380地號",
+    "land_area":348.25,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010817,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":500000,
+    "unit_price":1436,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":203072,
+    "co_y":2593348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.294474,23.496774 ]
+    },
+    "properties": {
+    "town":"六腳鄉",
+    "address":"蒜頭段蒜東小段181~210地號",
+    "land_area":3654,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010823,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":7673400,
+    "unit_price":2100,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":177941,
+    "co_y":2599471
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.205088,23.403167 ]
+    },
+    "properties": {
+    "town":"布袋鎮",
+    "address":"保安宮段31~60地號",
+    "land_area":541.8,
+    "type":null,
+    "noncity_type":2,
+    "noncity":7,
+    "trans_date":1010819,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":250000,
+    "unit_price":461,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":168754,
+    "co_y":2589152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.421369,23.593374 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"柳子溝段柳一小段301~330地號",
+    "land_area":3534,
+    "type":5,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010821,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2827200,
+    "unit_price":800,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":190945,
+    "co_y":2610111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.393665,23.571164 ]
+    },
+    "properties": {
+    "town":"溪口鄉",
+    "address":"厝子段厝子小段151~180地號",
+    "land_area":5445,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010817,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":4301550,
+    "unit_price":790,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":188107,
+    "co_y":2607663
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.442893,23.528908 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"義興段841~870地號",
+    "land_area":1822.85,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010628,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2500000,
+    "unit_price":1371,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":193114,
+    "co_y":2602963
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.443461,23.528901 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"義興段841~870地號",
+    "land_area":1450.28,
+    "type":1,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010709,
+    "trans_num":"土地4建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1700000,
+    "unit_price":1172,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":193172,
+    "co_y":2602962
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.607195,23.525436 ]
+    },
+    "properties": {
+    "town":"竹崎鄉",
+    "address":"緞厝寮段241~270地號",
+    "land_area":7721,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1000803,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1780000,
+    "unit_price":231,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":209890,
+    "co_y":2602523
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.278247,23.483002 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"溪口段601~630地號",
+    "land_area":178.13,
+    "type":1,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1000823,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1508640,
+    "unit_price":8469,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":176276,
+    "co_y":2597954
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.259588,23.460232 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"大鄉段421~450地號",
+    "land_area":253.41,
+    "type":null,
+    "noncity_type":4,
+    "noncity":2,
+    "trans_date":1010813,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2000000,
+    "unit_price":7892,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":174357,
+    "co_y":2595442
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.50954,23.583194 ]
+    },
+    "properties": {
+    "town":"大林鎮",
+    "address":"中坑段中坑小段61~90地號",
+    "land_area":12291.95,
+    "type":null,
+    "noncity_type":3,
+    "noncity":4,
+    "trans_date":1010808,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":53728113,
+    "unit_price":4371,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":199940,
+    "co_y":2608950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.395737,23.544308 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"雙援段何厝小段61~90地號",
+    "land_area":4192,
+    "type":4,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010813,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3450000,
+    "unit_price":823,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":188306,
+    "co_y":2604688
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.452767,23.435872 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"和溪段331~360地號",
+    "land_area":1709.38,
+    "type":null,
+    "noncity_type":1,
+    "noncity":1,
+    "trans_date":1010814,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":18090000,
+    "unit_price":10583,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":194083,
+    "co_y":2592656
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.40025,23.55769 ]
+    },
+    "properties": {
+    "town":"民雄鄉",
+    "address":"菁埔段菁埔小段1021~1050地號",
+    "land_area":4219,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010815,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":8000000,
+    "unit_price":1896,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":188773,
+    "co_y":2606168
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.177515,23.373615 ]
+    },
+    "properties": {
+    "town":"布袋鎮",
+    "address":"布鹽段61~90地號",
+    "land_area":3165.2,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010730,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":20000000,
+    "unit_price":null,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":165917,
+    "co_y":2585895
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.251634,23.440446 ]
+    },
+    "properties": {
+    "town":"朴子市",
+    "address":"鴨母寮段東安小段31~60地號",
+    "land_area":17246,
+    "type":4,
+    "noncity_type":1,
+    "noncity":7,
+    "trans_date":1010817,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":15521400,
+    "unit_price":900,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":173533,
+    "co_y":2593255
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.563127,23.430178 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"灣潭子段151~180地號",
+    "land_area":7900,
+    "type":5,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010820,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1500000,
+    "unit_price":190,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":205358,
+    "co_y":2591987
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.387406,23.499063 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"東新段691~720地號",
+    "land_area":6.68,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010820,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":40000,
+    "unit_price":5990,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":187434,
+    "co_y":2599681
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.642411,23.42377 ]
+    },
+    "properties": {
+    "town":"番路鄉",
+    "address":"公田段31~60地號",
+    "land_area":1335,
+    "type":null,
+    "noncity_type":5,
+    "noncity":5,
+    "trans_date":1010831,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":200000,
+    "unit_price":150,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":213458,
+    "co_y":2591255
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.348218,23.434233 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"埔心段埔心小段481~510地號",
+    "land_area":1199,
+    "type":null,
+    "noncity_type":1,
+    "noncity":5,
+    "trans_date":1010723,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1150000,
+    "unit_price":959,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":183399,
+    "co_y":2592519
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.538317,23.413753 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"頂埔段31~60地號",
+    "land_area":3344,
+    "type":4,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010819,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":1200000,
+    "unit_price":359,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":202817,
+    "co_y":2590176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.472283,23.442621 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"王爺段751~780地號",
+    "land_area":873.38,
+    "type":null,
+    "noncity_type":1,
+    "noncity":4,
+    "trans_date":1010813,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":11000000,
+    "unit_price":12595,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":196080,
+    "co_y":2593396
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.382196,23.505644 ]
+    },
+    "properties": {
+    "town":"太保市",
+    "address":"北新段241~270地號",
+    "land_area":3350.99,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010816,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2060000,
+    "unit_price":615,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":186905,
+    "co_y":2600412
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.578352,23.45843 ]
+    },
+    "properties": {
+    "town":"番路鄉",
+    "address":"番路段211~240地號",
+    "land_area":3577,
+    "type":null,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010717,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":9047200,
+    "unit_price":2529,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":206923,
+    "co_y":2595111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.475954,23.457181 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"大義段781~810地號",
+    "land_area":545.28,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010815,
+    "trans_num":"土地3建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":3300000,
+    "unit_price":6052,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":196461,
+    "co_y":2595007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.504125,23.595502 ]
+    },
+    "properties": {
+    "town":"大林鎮",
+    "address":"大埔美段大美小段121~150地號",
+    "land_area":3880,
+    "type":5,
+    "noncity_type":2,
+    "noncity":5,
+    "trans_date":1010816,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2400000,
+    "unit_price":619,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":199392,
+    "co_y":2610315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.571187,23.416141 ]
+    },
+    "properties": {
+    "town":"中埔鄉",
+    "address":"灣潭子段361~390地號",
+    "land_area":6958,
+    "type":null,
+    "noncity_type":6,
+    "noncity":5,
+    "trans_date":1010824,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":590000,
+    "unit_price":85,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":206177,
+    "co_y":2590430
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.529311,23.475691 ]
+    },
+    "properties": {
+    "town":"番路鄉",
+    "address":"內甕段31~60地號",
+    "land_area":908,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010828,
+    "trans_num":"土地1建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":2280000,
+    "unit_price":2511,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":201919,
+    "co_y":2597038
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.183171,23.379577 ]
+    },
+    "properties": {
+    "town":"布袋鎮",
+    "address":"中興段271~300地號",
+    "land_area":2184.9,
+    "type":4,
+    "noncity_type":null,
+    "noncity":null,
+    "trans_date":1010904,
+    "trans_num":"土地2建物0車位0",
+    "trans_fl":"",
+    "build_p":"有",
+    "build_org":"無",
+    "total_price":723980,
+    "unit_price":331,
+    "park_type":"",
+    "park_area":"0",
+    "park_total_price":"0",
+    "co_x":166499,
+    "co_y":2586552
+    }
+  }
+]
+}
