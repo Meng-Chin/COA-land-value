@@ -83,7 +83,7 @@ map.on('load',
     });
     
 map.on('click', function (e) {
-    var features = map.queryRenderedFeatures(e.point, { layers: ['unclustered-points'] });
+    var features = map.queryRenderedFeatures(e.point, { layers: ['uncluster'] });
     map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
 
     if (!features.length) {
