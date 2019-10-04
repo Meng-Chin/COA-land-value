@@ -22,7 +22,6 @@ style: 'mapbox://styles/monkey0503/ck1bvw1at01bu1dmkapz74ab2', // stylesheet loc
 center: [120.9, 23.9], // starting position [lng, lat]
 zoom: 8 // starting zoom
 });
-
 map.on('load',
     () => {
         map.addSource("landlocation",
@@ -33,7 +32,6 @@ map.on('load',
                 clusterRadius: 20, // Radius of each cluster when clustering points
                 clusterMaxZoom: 11 // Max zoom to cluster points on
             });
-
         map.addLayer({
             id: 'clusters',
             type: 'circle',
@@ -59,7 +57,6 @@ map.on('load',
                 }
             }
         });
-
         map.addLayer({
             id: 'cluster-count',
             type: 'symbol',
@@ -71,11 +68,10 @@ map.on('load',
                 'text-size': 12
             }
         });
-
         map.addLayer({
-            id: 'airport',
+            id: 'uncluster',
             type: 'circle',
-            source: 'airports',
+            source: 'landlocation',
             filter: ['!has', 'point_count'],
             paint: {
                 'circle-color': '#1EF008',
@@ -85,6 +81,33 @@ map.on('load',
             }
         });
     });
+    
+map.on('click', function (e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['unclustered-points'] });
+    map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
+
+    if (!features.length) {
+        return;
+    }
+
+    var feature = features[0];
+
+    // Populate the popup and set its coordinates
+    // based on the feature found.
+    
+    
+    var popup = new mapboxgl.Popup()
+        .setLngLat(feature.geometry.coordinates)
+        .setHTML("<b>Town;:</b> "+ feature.properties.town+  "<br />"+"<b>Address;:</b> " + feature.properties.address + "<br />" +
+"<b>Area Size;:</b> " + feature.properties.land_area + "<br />" +
+"<b>Type ID ;: </b> " + feature.properties.type + "<br />" +
+"<b>Noncity Type ID;: </b> " + feature.properties.noncity_type + "<br />" +
+"<b>Noncity;: </b> " + "<br />" + feature.properties.noncity + "<br />"+ "<b>Transfer Date;:</b>" + feature.properties.trans_date + "' target='_blank'>" + feature.properties.trans_num + "<br />" + 
+"<b>Transfer Number;: </b> " + "<br />" + feature.properties.trans_num + "<br />"+"<b>Build Public;: </b> " + "<br />" + feature.properties.build_p + "<br />"+
+"<b>Build Org;: </b> " + "<br />" + feature.properties.build_org + "<br />"+"<b>Total Price;: </b> " + "<br />" + feature.properties.total_price + "<br />")+
+"<b>Unit Price;: </b> " + "<br />" + feature.properties.unit_price + "<br />"
+        .addTo(map);
+});
 </script>
  
 </body>
