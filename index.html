@@ -9,6 +9,14 @@
 <style>
 body { margin:0; padding:0; }
 #map { position:absolute; top:0; bottom:0; width:100%; }
+ .mapboxgl-popup {
+overflow-y: scroll;
+max-width: 200px;
+max-height: 400px;
+font: 12px/20px 'Open Sans', sans-serif;
+border-radius: 5px;
+
+}
 </style>
 </head>
 <body>
@@ -29,8 +37,8 @@ map.on('load',
                 type: "geojson",
                 data: "https://meng-chin.github.io/COA-land-value/land.geojson",
                 cluster: true, // Enable clustering
-                clusterRadius: 20, // Radius of each cluster when clustering points
-                clusterMaxZoom: 11 // Max zoom to cluster points on
+                clusterRadius: 25, // Radius of each cluster when clustering points
+                clusterMaxZoom: 10 // Max zoom to cluster points on
             });
         map.addLayer({
             id: 'clusters',
@@ -41,9 +49,9 @@ map.on('load',
                     property: 'point_count',
                     type: 'interval',
                     stops: [
-                        [0, '#41A337'],
-                        [100, '#2D7026'],
-                        [750, '#0B5703'],
+                        [0, '#48C9B0 '],
+                        [50, '#5499C7 '],
+                        [200, '#2874A6 '],
                     ]
                 },
                 'circle-radius': {
@@ -51,8 +59,8 @@ map.on('load',
                     type: 'interval',
                     stops: [
                         [0, 20],
-                        [100, 30],
-                        [750, 40]
+                        [50, 30],
+                        [200, 40]
                     ]
                 }
             }
@@ -65,7 +73,7 @@ map.on('load',
             layout: {
                 'text-field': '{point_count}',
                 'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
-                'text-size': 12
+                'text-size': 12,
             }
         });
         map.addLayer({
@@ -74,10 +82,10 @@ map.on('load',
             source: 'landlocation',
             filter: ['!has', 'point_count'],
             paint: {
-                'circle-color': '#1EF008',
+                'circle-color': '#D4E157  ',
                 'circle-radius': 6,
                 'circle-stroke-width': 1,
-                'circle-stroke-color': '#fff'
+                'circle-stroke-color': '#FCF9F9 '
             }
         });
         map.on('click', 'uncluster', function (e) {
@@ -89,6 +97,12 @@ map.on('load',
             var noncitytype = e.features[0].properties.noncity_type;
             var noncity = e.features[0].properties.noncity;
             var transdate = e.features[0].properties.trans_date;
+            var transnum = e.features[0].properties.trans_num;
+            var buildp = e.features[0].properties.build_p;
+            var buildorg = e.features[0].properties.build_org;
+            var totalprice = e.features[0].properties.total_price;
+            var unitprice= e.features[0].properties.unit_price;
+            
             // Ensure that if the map is zoomed out such that multiple
             // copies of the feature are visible, the popup appears
             // over the copy being pointed to.
@@ -98,7 +112,7 @@ map.on('load',
         
             new mapboxgl.Popup()
             .setLngLat(coordinates)
-            .setHTML("<b>Townname:</b>"+ townname +"<br />"+"<b>Address:</b>"+ address+"<br />"+"<b>Area Size:</b>"+ area +"<br />"+"<b>Type:</b>"+ type +"<br />"+"<b>TypeID of Noncity areas:</b>"+ noncitytype +"<br />"+"<b>Noncity Areas:</b>"+ noncity +"<br />"+"<b>Transfer Time:</b>"+ transdate)
+            .setHTML("<b>Townname:</b>"+ townname +"<br />"+"<b>Address:</b>"+ address+"<br />"+"<b>Area Size:</b>"+ area +"<br />"+"<b>Type:</b>"+ type +"<br />"+"<b>TypeID of Noncity areas:</b>"+ noncitytype +"<br />"+"<b>Noncity Areas:</b>"+ noncity +"<br />"+"<b>Transfer Time:</b>"+ transdate+"<b>Transfer Ammounts:</b>"+ transnum +"<br />"+"<b>Private Buildings:</b>"+ buildp +"<br />"+"<b>Official Buildings:</b>"+ buildorg +"<br />"+"<b>Total Price:</b>"+ totalprice +"<br />"+"<b>Unit Price:</b>"+ unitprice)
             .addTo(map);
         });
         
