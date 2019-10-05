@@ -15,12 +15,19 @@ max-width: 200px;
 max-height: 400px;
 font: 12px/20px 'Open Sans', sans-serif;
 border-radius: 5px;
-
 }
 </style>
 </head>
 <body>
- 
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.2/mapbox-gl-geocoder.min.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.2/mapbox-gl-geocoder.css' type='text/css' />
+<!-- Promise polyfill script required to use Mapbox GL Geocoder in IE 11 -->
+<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+
+<link rel="stylesheet" href="L.Control.Basemaps.css" />
+<script src="L.Control.Basemaps-min.js"></script>
+
 <div id='map'></div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoibW9ua2V5MDUwMyIsImEiOiJjajMzMnBqMGswMDJjMzNvOXd4NmtkNTR6In0.k9QqpyQkUxGk-X-OFPvMRg';
@@ -114,6 +121,7 @@ map.on('load',
             .setLngLat(coordinates)
             .setHTML("<b>Townname:</b>"+ townname +"<br />"+"<b>Address:</b>"+ address+"<br />"+"<b>Area Size:</b>"+ area +"<br />"+"<b>Type:</b>"+ type +"<br />"+"<b>TypeID of Noncity areas:</b>"+ noncitytype +"<br />"+"<b>Noncity Areas:</b>"+ noncity +"<br />"+"<b>Transfer Time:</b>"+ transdate+"<br />"+"<b>Transfer Ammounts:</b>"+ transnum +"<br />"+"<b>Private Buildings:</b>"+ buildp +"<br />"+"<b>Official Buildings:</b>"+ buildorg +"<br />"+"<b>Total Price:</b>"+ totalprice +"<br />"+"<b>Unit Price:</b>"+ unitprice)
             .addTo(map);
+        
         });
         
         // Change the cursor to a pointer when the mouse is over the places layer.
@@ -126,6 +134,12 @@ map.on('load',
             map.getCanvas().style.cursor = '';
         });
     });
+    map.addControl(new MapboxGeocoder({
+    accessToken: mapboxgl.accessToken,
+    mapboxgl: mapboxgl
+    
+
+}));
 </script>
  
 </body>
