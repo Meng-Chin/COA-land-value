@@ -80,34 +80,38 @@ map.on('load',
                 'circle-stroke-color': '#fff'
             }
         });
+        map.on('click', 'uncluster', function (e) {
+            var coordinates = e.features[0].geometry.coordinates.slice();
+            var townname = e.features[0].properties.town;
+            var address = e.features[0].properties.address;
+            var area = e.features[0].properties.land_area;
+            var type = e.features[0].properties.type;
+            var noncitytype = e.features[0].properties.noncity_type;
+            var noncity = e.features[0].properties.noncity;
+            var transdate = e.features[0].properties.trans_date;
+            // Ensure that if the map is zoomed out such that multiple
+            // copies of the feature are visible, the popup appears
+            // over the copy being pointed to.
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+        
+            new mapboxgl.Popup()
+            .setLngLat(coordinates)
+            .setHTML("<b>Townname:</b>"+ townname +"<br />"+"<b>Address:</b>"+ address+"<br />"+"<b>Area Size:</b>"+ area +"<br />"+"<b>Type:</b>"+ type +"<br />"+"<b>TypeID of Noncity areas:</b>"+ noncitytype +"<br />"+"<b>Noncity Areas:</b>"+ noncity +"<br />"+"<b>Transfer Time:</b>"+ transdate)
+            .addTo(map);
+        });
+        
+        // Change the cursor to a pointer when the mouse is over the places layer.
+        map.on('mouseenter', 'uncluster', function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        
+        // Change it back to a pointer when it leaves.
+        map.on('mouseleave', 'uncluster', function () {
+            map.getCanvas().style.cursor = '';
+        });
     });
-    
-map.on('click', function (e) {
-    var features = map.queryRenderedFeatures(e.point, { layers: ['uncluster'] });
-    map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
-
-    if (!features.length) {
-        return;
-    }
-
-    var feature = features[0];
-
-    // Populate the popup and set its coordinates
-    // based on the feature found.
-    
-    
-    var popup = new mapboxgl.Popup()
-        .setLngLat(feature.geometry.coordinates)
-        .setHTML("<b>Town;:</b> "+ feature.properties.town+  "<br />"+"<b>Address;:</b> " + feature.properties.address + "<br />" +
-"<b>Area Size;:</b> " + feature.properties.land_area + "<br />" +
-"<b>Type ID ;: </b> " + feature.properties.type + "<br />" +
-"<b>Noncity Type ID;: </b> " + feature.properties.noncity_type + "<br />" +
-"<b>Noncity;: </b> " + "<br />" + feature.properties.noncity + "<br />"+ "<b>Transfer Date;:</b>" + feature.properties.trans_date + "' target='_blank'>" + feature.properties.trans_num + "<br />" + 
-"<b>Transfer Number;: </b> " + "<br />" + feature.properties.trans_num + "<br />"+"<b>Build Public;: </b> " + "<br />" + feature.properties.build_p + "<br />"+
-"<b>Build Org;: </b> " + "<br />" + feature.properties.build_org + "<br />"+"<b>Total Price;: </b> " + "<br />" + feature.properties.total_price + "<br />")+
-"<b>Unit Price;: </b> " + "<br />" + feature.properties.unit_price + "<br />"
-        .addTo(map);
-});
 </script>
  
 </body>
