@@ -8,12 +8,55 @@
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.css' rel='stylesheet' />
 <style>
 body { margin:0; padding:0; }
-#menu {
+#menu1 {
 position: absolute;
 background: #fff;
 padding: 10px;
 font-family: 'Open Sans', sans-serif;
 }
+
+#menu {
+background: #fff;
+position: absolute;
+z-index: 1;
+top: 50px;
+right: 10px;
+border-radius: 3px;
+width: 120px;
+border: 1px solid rgba(0,0,0,0.4);
+font-family: 'Open Sans', sans-serif;
+}
+ 
+#menu a {
+font-size: 13px;
+color: #404040;
+display: block;
+margin: 0;
+padding: 0;
+padding: 10px;
+text-decoration: none;
+border-bottom: 1px solid rgba(0,0,0,0.25);
+text-align: center;
+}
+ 
+#menu a:last-child {
+border: none;
+}
+ 
+#menu a:hover {
+background-color: #f8f8f8;
+color: #404040;
+}
+ 
+#menu a.active {
+background-color: #3887be;
+color: #ffffff;
+}
+ 
+#menu a.active:hover {
+background: #3074a4;
+}
+
 
 #map { position:absolute; top:0; bottom:0; width:100%; }
  .mapboxgl-popup {
@@ -34,7 +77,8 @@ border-radius: 5px;
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.css' rel='stylesheet' />
 
 <div id='map'></div>
-<div id='menu'>
+<nav id="menu"></nav>
+<div id='menu1'>
 <input id='streets-v11' type='radio' name='rtoggle' value='streets' checked='checked'>
 <label for='streets'>streets</label>
 <input id='light-v10' type='radio' name='rtoggle' value='light'>
@@ -169,19 +213,48 @@ map.on('style.load',
             map.getCanvas().style.cursor = '';
         });
         
-        var layerList = document.getElementById('menu');
+        var layerList = document.getElementById('menu1');
         var inputs = layerList.getElementsByTagName('input');
     
         function switchLayer(layer) {
-        var layerId = layer.target.id;
-        map.setStyle('mapbox://styles/mapbox/' + layerId);
-        }
-    
-        for (var i = 0; i < inputs.length; i++) {
-        inputs[i].onclick = switchLayer;
-        }
+            var layerId = layer.target.id;
+            map.setStyle('mapbox://styles/mapbox/' + layerId);
+            }
         
+            for (var i = 0; i < inputs.length; i++) {
+            inputs[i].onclick = switchLayer;
+                }     
     });
+//whatever layers you want to toggle go in to this function
+toggleLayer(['clusters', 'uncluster','cluster-count'], 'Land');
+toggleLayer(['township'], 'Boundaries');
+
+function toggleLayer(ids, name) {
+    var link = document.createElement('a');
+    link.href = '#';
+    link.className = 'active';
+    link.textContent = name;
+
+    link.onclick = function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        for (layers in ids){
+            var visibility = map.getLayoutProperty(ids[layers], 'visibility');
+            if (visibility === 'visible') {
+                map.setLayoutProperty(ids[layers], 'visibility', 'none');
+                this.className = '';
+            } else {
+                this.className = 'active';
+                map.setLayoutProperty(ids[layers], 'visibility', 'visible');
+            }
+         }
+
+    };
+
+    var layers = document.getElementById('menu');
+    layers.appendChild(link);
+}
+    
     map.addControl(new MapboxGeocoder({
     accessToken: mapboxgl.accessToken,
     mapboxgl: mapboxgl
@@ -191,4 +264,5 @@ map.on('style.load',
  
 </body>
 </html>
+    
     
