@@ -8,6 +8,13 @@
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.css' rel='stylesheet' />
 <style>
 body { margin:0; padding:0; }
+#menu {
+position: absolute;
+background: #fff;
+padding: 10px;
+font-family: 'Open Sans', sans-serif;
+}
+
 #map { position:absolute; top:0; bottom:0; width:100%; }
  .mapboxgl-popup {
 overflow-y: scroll;
@@ -24,21 +31,47 @@ border-radius: 5px;
 <!-- Promise polyfill script required to use Mapbox GL Geocoder in IE 11 -->
 <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
-
-<link rel="stylesheet" href="L.Control.Basemaps.css" />
-<script src="L.Control.Basemaps-min.js"></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.css' rel='stylesheet' />
 
 <div id='map'></div>
+<div id='menu'>
+<input id='streets-v11' type='radio' name='rtoggle' value='streets' checked='checked'>
+<label for='streets'>streets</label>
+<input id='light-v10' type='radio' name='rtoggle' value='light'>
+<label for='light'>light</label>
+<input id='dark-v10' type='radio' name='rtoggle' value='dark'>
+<label for='dark'>dark</label>
+<input id='outdoors-v11' type='radio' name='rtoggle' value='outdoors'>
+<label for='outdoors'>outdoors</label>
+<input id='satellite-v9' type='radio' name='rtoggle' value='satellite'>
+<label for='satellite'>satellite</label>
+</div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoibW9ua2V5MDUwMyIsImEiOiJjajMzMnBqMGswMDJjMzNvOXd4NmtkNTR6In0.k9QqpyQkUxGk-X-OFPvMRg';
 var map = new mapboxgl.Map({
-container: 'map', // container id
-style: 'mapbox://styles/monkey0503/ck1h5j1oy0d941cm8ajfwf3wa', // stylesheet location
-center: [120.9, 24.2], // starting position [lng, lat]
-zoom: 6 // starting zoom
+    container: 'map', // container id
+    style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
+    center: [120.9, 24.2], // starting position [lng, lat]
+    zoom: 6 // starting zoom
 });
-map.on('load',
+
+map.on('style.load',
     () => {
+        map.addSource("boundaries",
+        {
+            type: "geojson",
+            data: "https://meng-chin.github.io/COA-land-value/ChiayiTOWN.geojson"
+            });
+            
+        map.addLayer({
+            id: 'township',
+            type: 'fill',
+            source: 'boundaries',
+            paint: {
+                'fill-color': "#888888",
+                'fill-opacity': 0.4
+            }
+        });
         map.addSource("landlocation",
             {
                 type: "geojson",
@@ -135,14 +168,27 @@ map.on('load',
         map.on('mouseleave', 'uncluster', function () {
             map.getCanvas().style.cursor = '';
         });
+        
+        var layerList = document.getElementById('menu');
+        var inputs = layerList.getElementsByTagName('input');
+    
+        function switchLayer(layer) {
+        var layerId = layer.target.id;
+        map.setStyle('mapbox://styles/mapbox/' + layerId);
+        }
+    
+        for (var i = 0; i < inputs.length; i++) {
+        inputs[i].onclick = switchLayer;
+        }
+        
     });
     map.addControl(new MapboxGeocoder({
     accessToken: mapboxgl.accessToken,
     mapboxgl: mapboxgl
     
-
 }));
 </script>
  
 </body>
 </html>
+    
