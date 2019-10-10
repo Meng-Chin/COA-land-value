@@ -211,9 +211,17 @@ map.on('style.load',
             .setLngLat(coordinates)
             .setHTML("<b>Townname:</b>"+ townname +"<br />"+"<b>Address:</b>"+ address+"<br />"+"<b>Area Size:</b>"+ area +"<br />"+"<b>Type:</b>"+ type +"<br />"+"<b>TypeID of Noncity areas:</b>"+ noncitytype +"<br />"+"<b>Noncity Areas:</b>"+ noncity +"<br />"+"<b>Transfer Time:</b>"+ transdate+"<br />"+"<b>Transfer Ammounts:</b>"+ transnum +"<br />"+"<b>Private Buildings:</b>"+ buildp +"<br />"+"<b>Official Buildings:</b>"+ buildorg +"<br />"+"<b>Total Price:</b>"+ totalprice +"<br />"+"<b>Unit Price:</b>"+ unitprice)
             .addTo(map);
-         
-        
         });
+        
+        map.on('click', 'boundaries', function (e) {
+            var COUNTYNAME = e.features[0].properties.COUNTYNAME;
+            var TOWNNAME = e.features[0].properties.TOWNNAME;
+            var TOWNENG = e.features[0].properties.TOWNENG;
+            new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML("<b>County name:</b>"+ COUNTYNAME +"<br />"+"<b>Townname:</b>"+ TOWNNAME+"<br />"+"<b>Townname_English:</b>"+ TOWNENG+"<br />")
+            .addTo(map);
+            });
         
         // Change the cursor to a pointer when the mouse is over the places layer.
         map.on('mouseenter', 'uncluster', function () {
@@ -223,7 +231,18 @@ map.on('style.load',
         // Change it back to a pointer when it leaves.
         map.on('mouseleave', 'uncluster', function () {
             map.getCanvas().style.cursor = '';
+        });        
+        
+        // Change the cursor to a pointer when the mouse is over the states layer.
+        map.on('mouseenter', 'boundaries', function () {
+        map.getCanvas().style.cursor = 'pointer';
         });
+        
+        // Change it back to a pointer when it leaves.
+        map.on('mouseleave', 'boundaries', function () {
+        map.getCanvas().style.cursor = '';
+        });
+        
         
         var layerList = document.getElementById('menu1');
         var inputs = layerList.getElementsByTagName('input');
@@ -276,4 +295,3 @@ function toggleLayer(ids, name) {
  
 </body>
 </html>
-    
