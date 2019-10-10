@@ -9,9 +9,13 @@
 <style>
 body { margin:0; padding:0; }
 #menu1 {
+background: #F5FFFA;
 position: absolute;
-background: #fff;
-padding: 10px;
+z-index: 1;
+top: 150px;
+right: 10px;
+border-radius: 3px;
+width: 120px;
 font-family: 'Open Sans', sans-serif;
 }
 
@@ -26,7 +30,14 @@ width: 120px;
 border: 1px solid rgba(0,0,0,0.4);
 font-family: 'Open Sans', sans-serif;
 }
- 
+.row{
+  display: table-row;
+}
+label{
+  display: table-cell;
+  vertical-align: middle;
+}
+
 #menu a {
 font-size: 13px;
 color: #404040;
@@ -79,17 +90,18 @@ border-radius: 5px;
 <div id='map'></div>
 <nav id="menu"></nav>
 <div id='menu1'>
-<input id='streets-v11' type='radio' name='rtoggle' value='streets' checked='checked'>
-<label for='streets'>streets</label>
-<input id='light-v10' type='radio' name='rtoggle' value='light'>
-<label for='light'>light</label>
-<input id='dark-v10' type='radio' name='rtoggle' value='dark'>
-<label for='dark'>dark</label>
-<input id='outdoors-v11' type='radio' name='rtoggle' value='outdoors'>
-<label for='outdoors'>outdoors</label>
-<input id='satellite-v9' type='radio' name='rtoggle' value='satellite'>
-<label for='satellite'>satellite</label>
+    <input id='streets-v11'type='radio' name='rtoggle' value='streets' checked='checked'>
+        <label for='streets'>streets</label>
+    <input id='light-v10'type='radio' name='rtoggle' value='light'>
+        <label for='light'>light</label>
+    <input id='dark-v10' type='radio' name='rtoggle' value='dark'>
+        <label for='dark'>dark</label>
+    <input id='outdoors-v11' type='radio' name='rtoggle' value='outdoors'>
+        <label for='outdoors'>outdoors</label>
+    <input id='satellite-v9' type='radio' name='rtoggle' value='satellite'>
+        <label for='satellite'>satellite</label>
 </div>
+
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoibW9ua2V5MDUwMyIsImEiOiJjajMzMnBqMGswMDJjMzNvOXd4NmtkNTR6In0.k9QqpyQkUxGk-X-OFPvMRg';
 var map = new mapboxgl.Map({
@@ -264,5 +276,4 @@ function toggleLayer(ids, name) {
  
 </body>
 </html>
-    
     
