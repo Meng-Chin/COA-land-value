@@ -213,16 +213,6 @@ map.on('style.load',
             .addTo(map);
         });
         
-        map.on('click', 'boundaries', function (e) {
-            var COUNTYNAME = e.features[0].properties.COUNTYNAME;
-            var TOWNNAME = e.features[0].properties.TOWNNAME;
-            var TOWNENG = e.features[0].properties.TOWNENG;
-            new mapboxgl.Popup()
-            .setLngLat(e.lngLat)
-            .setHTML("<b>County name:</b>"+ COUNTYNAME +"<br />"+"<b>Townname:</b>"+ TOWNNAME+"<br />"+"<b>Townname_English:</b>"+ TOWNENG+"<br />")
-            .addTo(map);
-        });
-        
         // Change the cursor to a pointer when the mouse is over the places layer.
         map.on('mouseenter', 'uncluster', function () {
             map.getCanvas().style.cursor = 'pointer';
@@ -233,17 +223,42 @@ map.on('style.load',
             map.getCanvas().style.cursor = '';
         });        
         
-        // Change the cursor to a pointer when the mouse is over the states layer.
-        map.on('mouseenter', 'boundaries', function () {
-          map.getCanvas().style.cursor = 'pointer';
-        });
         
+        // When a click event occurs on a feature in the places layer, open a popup at the
+        // location of the feature, with description HTML from its properties.
+        map.on('click', 'boundaries', function (e) {
+            var coordinates = e.features[0].geometry.coordinates[0][0].slice();
+            var COUNTYNAME = e.features[0].properties.COUNTYNAME;
+            var TOWNNAME = e.features[0].properties.TOWNNAME;
+            var TOWNENG = e.features[0].properties.TOWNENG;
+            console.log(coordinates);
+            
+            
+            // Ensure that if the map is zoomed out such that multiple
+            // copies of the feature are visible, the popup appears
+            // over the copy being pointed to.
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+    
+            new mapboxgl.Popup()
+                .setLngLat(coordinates)
+                .setHTML("<b>County name:</b>"+ COUNTYNAME +"<br />"+"<b>Townname:</b>"+ TOWNNAME+"<br />"+"<b>Townname_English:</b>"+ TOWNENG+"<br />")
+                .addTo(map);
+        });
+    
+        // Change the cursor to a pointer when the mouse is over the places layer.
+        map.on('mouseenter', 'boundaries', function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+    
         // Change it back to a pointer when it leaves.
         map.on('mouseleave', 'boundaries', function () {
-          map.getCanvas().style.cursor = '';
+            map.getCanvas().style.cursor = '';
         });
         
         
+                
         var layerList = document.getElementById('menu1');
         var inputs = layerList.getElementsByTagName('input');
     
